@@ -1,5 +1,4 @@
-# lubovger.github.io
-## Сравнительный анализ.ТОП 10 CRM
+# Сравнительный анализ.ТОП 10 CRM
 
 ## [ CRM  МойСклад ] (https://crmindex.ru)
 
