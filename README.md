@@ -1,5 +1,44 @@
 # Анализ систем CRM
 
+alinapetrovets
+alinapetrovets
+committed
+yesterday
+·
+Verified
+Commits on Dec 13, 2023
+fork example
+ophilon
+ophilon
+committed
+2 days ago
+Verified
+Commits on Jan 26, 2021
+Update README.md
+lubovger
+lubovger
+committed
+2 years ago
+Verified
+Update README.md
+lubovger
+lubovger
+committed
+2 years ago
+Verified
+Create README.md
+lubovger
+lubovger
+committed
+2 years ago
+Verified
+Delete README.md
+lubovger
+lubovger
+committed
+2 years ago
+Verified
+Update README.md
 ## [ CRM  МойСклад ] (https://crmindex.ru)
 
 - Цена: -- 0 – 6900 рос. руб
